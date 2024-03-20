@@ -12,7 +12,9 @@ export default {
 <template>
   
   <div>
-   <h1>{{ title }}</h1>
+   <h1 class="titolo">{{ title }}</h1>
+
+   <input class="ricerca" type="text" >
   </div>
 </template>
 
